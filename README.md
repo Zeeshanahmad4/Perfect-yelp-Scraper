@@ -18,4 +18,4 @@ libraries used:
 Output data in CSV.You can use resturent.csv file for referance.
 
 
-## Technical support will be for provied only on client's demand. Email us ahmadzee26@gmail.com
+## W Provied Technical support only on client's demand. Email us ahmadzee26@gmail.com
