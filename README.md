@@ -10,7 +10,7 @@
   </a>
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">Scraping yelp for business info(Full search Scraping (more than 6000+ results))</a> <br>
-                     I have more advance version of this scraper please contact for more info</h3>
+                     I have a more advance version of this scraper please contact for more info</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -53,9 +53,7 @@ git clone https://github.com/Zeeshanahmad4/Perfect-yelp-Scraper.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-You can use this scraper for extracting business info from yelp.
-I added rotating IPs so yelp could not block you while scraping.
-Output data in CSV.You can use resturent.csv file for referance.
+You can use this scraper for extracting business info from yelp. I added rotating IPs so yelp could not block you while scraping. Output data in CSV. You can use the resturent.csv file for reference.
 ## order of csv columns:
 ```'name', 'category', 'address', 'phone', 'price_range', 'health_rating', 'info', 'working_hours', 'ratings', 'ratings_histogram', 'claimed_status', 'reviews', 'website', 'url'```
 
