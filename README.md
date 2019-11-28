@@ -54,14 +54,15 @@ git clone https://github.com/Zeeshanahmad4/Perfect-yelp-Scraper.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 You can use this scraper for extracting business info from yelp.
+I added rotating IPs so yelp could not block you while scraping.
+Output data in CSV.You can use resturent.csv file for referance.
 ## order of csv columns:
 ```'name', 'category', 'address', 'phone', 'price_range', 'health_rating', 'info', 'working_hours', 'ratings', 'ratings_histogram', 'claimed_status', 'reviews', 'website', 'url'```
 
 ## Includes Files
 1. Restaurents.csv
 2. restaurants.py (Full bot)
-We added rotating IPs so yelp could not block you while scraping.
-Output data in CSV.You can use resturent.csv file for referance.
+
 
 
 <!-- ROADMAP -->
