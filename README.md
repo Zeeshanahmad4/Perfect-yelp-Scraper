@@ -33,7 +33,7 @@
 ![Demo](https://github.com/Zeeshanahmad4/Perfect-yelp-Scraper/blob/master/Capture.PNG)
 
 ## Code Demo
-![Code](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture2.PNG)
+![Code](https://github.com/Zeeshanahmad4/Perfect-yelp-Scraper/blob/master/ezgif.com-video-to-gif.gif)
 
 ## Output Data
 ![Output-Data](https://github.com/Zeeshanahmad4/Perfect-yelp-Scraper/blob/master/Capture2.PNG)
