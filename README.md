@@ -10,7 +10,7 @@
   </a>
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">Scraping yelp for business info(Full search Scraping (more than 6000+ results))</a> <br>
-                     I have a more advance version of this scraper please contact for more info</h3>
+
 </p>
 
 <!-- TABLE OF CONTENTS -->
